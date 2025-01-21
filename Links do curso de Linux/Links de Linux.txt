@@ -1,0 +1,5 @@
+Links de Linux
+
+https://www.redhat.com/pt-br/topics/linux/what-is-linux
+https://sempreupdate.com.br/linux/distribuicoes/melhores-distribruicoes-linux-para-programar/
+https://programadorviking.com.br/distros-linux-para-desenvolvedores/
